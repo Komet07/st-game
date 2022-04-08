@@ -35,7 +35,38 @@ New Station Types / Production Loadouts:
       
   - Refineries:
     Produce:
-      -
+      - Magnesium
+      or
+      - Uranium
+      or
+      - Oxygen & Hydrogen 
+    Require:
+      - Energy Cells (Medium Amount)
+      - Magnesium Ore
+      or
+      - Energy Cells (High Amount)
+      - Uranium Ore
+      or
+      - Ice
+      - Energy Cells (low Amount)
   
+  - Component Manufacturing Plants
+    Produce:
+      - Quantum Chips
+      or
+      - Reactor Components
+      or
+      - Hull Platings
+    Require:
+      - Platinum
+      - Iridium
+      - Energy Cells (Medium Amount)
+      or
+      - Uranium
+      - Energy Cells (High Amount)
+      or
+      - Titanium
+      - Platinum
+      - Carbon Fibre
+      - Energy Cells (low Amount)
       
- 
