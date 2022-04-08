@@ -47,4 +47,27 @@ Wares:
       - Energy Cells
       - System Components
       
+  - Trade Stations:
+    Don't Require or Produce anything, they just buy / sell a couple of wares
+    
+  - Refineries: 
+    Produce:
+      - Refined Titanium
+      - Refined Platinum
+      or
+      - Refined Carbon
+      - Refined Iridium
+      or
+      - Water
+    Require:
+      - Titanium Ore
+      - Platinum Ore
+      - Energy Cells (Medium amount)
+      or
+      - Carbon Ore
+      - Iridium Ore
+      - Energy Cells (Medium Amount)
+      or
+      - Ice
+      - Energy Cells (low amount)
   - 
