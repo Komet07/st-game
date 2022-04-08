@@ -51,22 +51,40 @@ New Station Types / Production Loadouts:
       - Energy Cells (low Amount)
   
   - Component Manufacturing Plants
-    Produce:
+    Produce: (seperate Production Recipe from the one in Details-Must-Have)
       - Quantum Chips
-      or
       - Reactor Components
-      or
       - Hull Platings
     Require:
-      - Platinum
-      - Iridium
-      - Energy Cells (Medium Amount)
-      or
-      - Uranium
-      - Energy Cells (High Amount)
-      or
-      - Titanium
-      - Platinum
-      - Carbon Fibre
-      - Energy Cells (low Amount)
+      - Titanium (For Hull Platings)
+      - Platinum (For Hull Platings & Quantum Chips)
+      - Iridium (For Quantum Chips)
+      - Uranium (For Reactor Components)
+      - Helium (For Reactor Components)
+      - Carbon Fibre (For Hull Platings)
+      - Energy Cells (For everything)
       
+  - Orbital Farms
+    Require: (As well as the other stuff in Details-Must-Have)
+      - Oxygen
+      - Cattle
+      
+  - Habitats
+    Require: (Plus the stuff in Details-Must-Have)
+      - Oxygen
+  
+  - Shipyard / Wharf: 
+    Require: (Plus the stuff in Details-Must-Have)
+      - Hydrogen
+      - Quantum Chips
+      - Hull Platings
+      - Reactor Components
+
+  - [NEW STRUCTURE] Gas Collectors
+    Produce:
+      - Oxygen (Low Amounts)
+      - Hydrogen (Low Amounts)
+      - Helium (Medium Amounts)
+    Require:
+      - System Components
+      - Energy Cells (medium Amount)
