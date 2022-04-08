@@ -85,6 +85,7 @@ Wares:
     Produce:
       - Food (High Amounts)
       - Luxury Food (Low Amounts)
+      - MREs (High Amounts)
     Require:
       - Water
   
