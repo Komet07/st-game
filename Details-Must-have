@@ -1,0 +1,50 @@
+Wares:
+ Ores: 
+  - Titanium Ore
+  - Platinum Ore
+  - Iridium Ore
+  - Carbon Ore
+  - Ice
+  
+ Refined Wares:
+  - Titanium
+  - Platinum
+  - Carbon
+  
+ Food
+  - Water
+  - MREs
+  - Food
+  - Luxury Food
+  - Medical Supplies
+  
+ Misc
+  - Carbon Fibre
+  - Energy Cells
+  - System Components
+ 
+ Stations:
+ 
+  - Solar Power Plant
+    Produces:
+      - Energy Cells
+    Requires:
+      - Carbon Fibre
+      
+  - Asteroid Mines
+    Produces:
+      - Titanium Ore
+      or
+      - Platinum Ore
+      or
+      - Carbon Ore
+      or
+      - Iridium Ore
+      or
+      - Ice
+      
+    Requires:
+      - Energy Cells
+      - System Components
+      
+  - 
