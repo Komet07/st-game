@@ -81,11 +81,15 @@ New Station Types / Production Loadouts:
       - Reactor Components
 
   - [NEW STRUCTURE] Gas Collectors
+  
     Produce:
+    
       - Oxygen (Low Amounts)
       - Hydrogen (Low Amounts)
       - Helium (Medium Amounts)
+      
     Require:
+    
       - System Components
       - Quantum Chips (low amount)
       - Energy Cells (medium Amount)
@@ -109,10 +113,12 @@ Jumpgates
   Lead to different Ares ("Sectors", can sometimes be in the same Star system; sometimes they're not)
   
   Two Sizes: 
+  
     - Minor Jumpgates (Connect Intra-System sectors)
     - Major Jumpgates (Connect sectors which are not in the same system)
     
   Require:
+  
     - Reactor Components
     - Energy Cells
     - Quantum Chips
