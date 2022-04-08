@@ -23,6 +23,7 @@ NPC Pilots to help populate the sector
     - The Rakana Trade Conglomerate
   
   The Wharf and Shipyard manufacture more ships
+  
     - Wharf: Belongs to Midwell Industries 
       Builds:
         - F-5G Midwell Industries Couriers
@@ -39,11 +40,13 @@ Miners:
   Mobile Resource Gatherers which can go up to resource asteroids and mine them for Ores and Ice, then directly sell at Refineries
  
   Ship Classes:
+  
     - Prospectors
     - Medium Miners
     - Large Miners
      
   Ships:
+  
     - G-6E Midwell Industries Prospector
     - B-9 Arkwell Medium Miner
     - B-109 Crane Large Miner
