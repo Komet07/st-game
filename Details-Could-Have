@@ -24,10 +24,18 @@ More Trade Wares:
    
 New Station Types / Production Loadouts:
 
-  - Mines: 
+  - Asteroid Mines: 
     Produce:
       - Magnesium Ore
+      or 
+      - Uranium Ore
     Require
       - Energy Cells
+      - Systems Components
+      
+  - Refineries:
+    Produce:
+      -
+  
       
  
