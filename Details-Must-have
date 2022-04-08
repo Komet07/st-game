@@ -10,6 +10,7 @@ Wares:
   - Titanium
   - Platinum
   - Carbon
+  - Iridium
   
  Food
   - Water
@@ -52,11 +53,11 @@ Wares:
     
   - Refineries: 
     Produce:
-      - Refined Titanium
-      - Refined Platinum
+      - Titanium
+      - Platinum
       or
-      - Refined Carbon
-      - Refined Iridium
+      - Carbon
+      - Iridium
       or
       - Water
     Require:
@@ -70,4 +71,35 @@ Wares:
       or
       - Ice
       - Energy Cells (low amount)
-  - 
+  - Habitats:
+    Produce:
+      Nothing
+    Require:
+      - Water (High Amounts)
+      - MRE (High Amounts)
+      - Food (High Amounts)
+      - Luxury Food (Low Amounts)
+      - Medical Supplies (Medium Amounts)
+      
+  - Orbital Farms:
+    Produce:
+      - Food (High Amounts)
+      - Luxury Food (Low Amounts)
+    Require:
+      - Water
+  
+  - Component Manufacturing Plants:
+    Produce:
+      - Carbon Fibre
+      - System Components
+      or
+      - Medical Supplies
+    Require:
+      - Carbon (for Carbon Fibres)
+      - Titanium (for System Components)
+      - Iridium (For System Components)
+      - Energy Cells (for both)
+      or
+      - Water 
+      - MREs
+      - Energy Cells
