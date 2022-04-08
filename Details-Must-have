@@ -103,3 +103,53 @@ Wares:
       - Water 
       - MREs
       - Energy Cells
+  - Shipyards / Wharfs
+    Produce:
+      - Ships
+    Require:
+      - Carbon Fibres
+      - Energy Cells
+      - System Components
+      - Platinum
+
+Docking:
+  Ships dock at external docking "Ports": Different Sizes for the different ship classes
+
+Ships:
+  Ship Classes:
+    - Couriers (small)
+    - Medium Freighters (duh)
+    - Large Freighters (duh)
+  Ships:
+    - F-5G Midwell Industries Courier
+    - A-120E Cormorant Medium Freighter
+    - LG-39 Behemoth Large Freighter
+
+Spaceship Controller
+
+GUI:
+  Player Stats UI:
+    - Displays Amount of Credits player has, current used ship (Maybe custom ship name too?) & Player Name
+  Inventory:
+    - Displays amount of Wares in Ship Inventory
+    - Displays Used / Total Cargo Space
+  Title Screen
+  Station Trade interfaces
+  Save menu / Settings?
+  Info Panel when you click on ships and stations
+    - Displays Ship/Station Name / Type
+    - Displays current Speed
+    - If Station: Displays what it produces / needs
+
+Economy Mechanics:
+  Supply / Demand:
+    - Prices change based on amount of that ware the station has
+    - Max amount of 10k Units (m^3?) of each ware on a station
+    - Prices can vary from -50% Standard Price (if full) to +50% Standard Price (if nearly empty / empty)
+
+Background Scenery:
+  - Background High-res planet (Gas Giant?)
+  - Space skybox (grab a free one from the Asset Store)
+  - Star
+  
+Save and Load
