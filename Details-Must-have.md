@@ -171,7 +171,7 @@ Ships:
     - A-120E Cormorant Medium Freighter
     - LG-39 Behemoth Large Freighter
 
-Spaceship Controller
+Spaceship Controller [DONE]
 
 GUI:
 
@@ -200,10 +200,10 @@ Economy Mechanics:
     - Max amount of 10k Units (m^3?) of each ware on a station
     - Prices can vary from -50% Standard Price (if full) to +50% Standard Price (if nearly empty / empty)
 
-Background Scenery:
+Background Scenery: [DONE]
 
-  - Background High-res planet (Gas Giant?)
-  - Space skybox (grab a free one from the Asset Store)
-  - Star
+  - Background High-res planet (Gas Giant?) [DONE]
+  - Space skybox (grab a free one from the Asset Store) [DONE]
+  - Star [DONE]
   
 Save and Load
