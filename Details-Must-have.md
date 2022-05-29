@@ -161,12 +161,15 @@ Docking:
 Ships:
 
   Ship Classes:
-  
+ 
+    - Sprinters (Couriers lite)
     - Couriers (small)
     - Medium Freighters (duh)
     - Large Freighters (duh)
+    
   Ships:
   
+    - F-2 Midwell Industries Sprinter
     - F-5G Midwell Industries Courier
     - A-120E Cormorant Medium Freighter
     - LG-39 Behemoth Large Freighter
